@@ -109,4 +109,5 @@ This repository contains a series of Python scripts used to scrape, filter, and 
 ## Final Notes
 - All intermediate and final files are stored in the **`temp/` folder**.  
 - Duplicate handling ensures **no sermons are skipped**.  
-- Steps 8–9 provide flexibility if different filtering criteria are applied.  
+- Steps 8–9 provide flexibility if different filtering criteria are applied.
+- Data visuals are created with a keyword search through sermon text with keywords: "elect" and "vote"
